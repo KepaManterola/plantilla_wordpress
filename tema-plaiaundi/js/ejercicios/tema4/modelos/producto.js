@@ -1,4 +1,4 @@
-export class producto {
+export class Producto {
     #stock;
 
     constructor(id, nombre, precio, stock) {
